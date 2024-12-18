@@ -69,6 +69,4 @@
   <a href="https://naren-portfolio-kappa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230000FF.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
 
-This version uses **badges, stats, and visuals** for a professional and vibrant appearance. Let me know if you'd like additional changes or features!
