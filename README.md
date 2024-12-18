@@ -1,32 +1,55 @@
-# Hi there! 👋 I'm Narendhranath M
-
-🚀 Aspiring Software Engineer | 🎓 Final Year B.Tech IT | 🌱 Passionate about Data Science, Machine Learning, and Full-Stack Development
-
----
-
-## 🔧 Skills & Tools
-- Languages: ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+# 👋 Hi, I'm **Narendhranath M**  
+🌟 **Aspiring Software Developer** | 🎓 **B.Tech IT Student** | 🌐 **Passionate about Web Development & Data Science**
 
 ---
 
-## 🌟 Projects
-- **[Hotstar-Clone-Frontend](https://github.com/your-repo-link)**: Built a responsive Hotstar-like website using HTML, CSS, and JavaScript.
-- **MedConnect**: A healthcare software for managing patient records seamlessly.
+## 👨‍💻 **About Me**  
+I'm a final-year B.Tech Information Technology student with a strong foundation in **Java**, **Python**, **HTML/CSS**, and **JavaScript**. I enjoy solving problems, building innovative solutions, and contributing to impactful projects.  
+
+- 🌱 Currently learning **ReactJS** and **Node.js**.  
+- 💼 Actively looking for opportunities to apply my skills in real-world projects.  
+- ✨ Enthusiastic about contributing to open-source communities.  
 
 ---
 
-## 🏆 Achievements
-- First Place in Code Debugging Event (Karpagam College of Engineering, 2021)
-- Completed a Java Bootcamp with LetsUpgrade.
+## 🛠 **Technical Skills**  
+- **Programming Languages:** Java, Python, SQL, JavaScript, HTML/CSS  
+- **Frameworks & Libraries:** Bootstrap, React.js, Node.js  
+- **Tools & Platforms:** GitHub, VS Code, Jupyter Notebook, Figma, Canva  
 
 ---
 
-## 📫 Contact Me
-- [Portfolio](https://naren-portfolio-kappa.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
+## 📚 **Projects**  
+
+### **Library Management System** (Python)  
+- A Python-based system for automating library operations like displaying, issuing, adding, and returning books.  
+- Implemented file handling and exception management to ensure efficient inventory control.  
+
+### **E-Health Suite** (HTML, CSS, JavaScript)  
+- Developed a healthcare platform to manage resources and improve patient care.  
+- Integrated administrative, operational, and clinical functionalities.  
+
+### **Hotstar Clone** (HTML, CSS, JavaScript)  
+- Created a front-end replica of the popular streaming service Hotstar.  
+- Focused on responsive design and user interface experience.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narendhranath&show_icons=true&theme=radical)
+## 🏆 **Achievements**  
+- 🥇 **First Place:** Code Debugging Event | *Karpagam College of Engineering, 2021*  
+- 🥈 **Second Place:** Web Designing Event | *Dr. N.G.P. Institute of Technology, 2022*  
+- 🏆 Finalist: iTech Hackathon | *PSG Institute of Technology, 2022*  
+- 📜 Published: *"Blockchain-Based eVoting System"* in IJARCCE, 2022  
+
+---
+
+## 📈 **GitHub Stats**  
+![Narendhranath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naren004&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naren004&layout=compact&theme=radical)  
+
+---
+
+## 📫 **Contact Me**  
+- 🌐 [Portfolio Website](https://naren-portfolio-kappa.vercel.app/)  
+- 📩 [Email](mailto:narendhran.m92@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/narendhranath-m)  
