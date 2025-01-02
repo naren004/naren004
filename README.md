@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendhranath M</h1>
-<h3 align="center">Aspiring Software Developer | Passionate about Web Development & Data Science</h3>
+<h3 align="center">Aspiring Software Developer | Passionate about Web Development</h3>
 
 ---
 
