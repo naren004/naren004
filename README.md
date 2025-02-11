@@ -8,7 +8,7 @@
 ### 🌟 **About Me**
 - 🎓 Final-year **B.Tech IT Student** from SNS College of Technology, Coimbatore (CGPA: 8.2 till 6th semester).  
 - 💻 Skilled in **Java**, **C#**, **Python**, **HTML/CSS**, **JavaScript**, **SQL**, **.NET**, and **MongoDB**.  
-- 🌱 Currently exploring **ReactJS**, **Node.js**, and **Full-Stack Development**.  
+- 🌱 Currently exploring **.NET**, **MongoDB**, and **Full-Stack Development**.  
 - ✨ Love contributing to **open-source projects** and solving real-world problems.  
 - 🔥 Passionate about building high-quality software solutions and optimizing web applications.  
 
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MudBlazor-%23533D7C.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razor-%230078D7.svg?style=for-the-badge&logo=razor&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Razor-%230078D7.svg?style=for-the-badge&logo=razor&logoColor=white"/> -->
 </p>
 
 ---
