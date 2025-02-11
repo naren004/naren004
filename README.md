@@ -7,8 +7,8 @@
 
 ### 🌟 **About Me**
 - 🎓 Final-year **B.Tech IT Student** from SNS College of Technology, Coimbatore.  
-- 💻 Skilled in **Java**, **Python**, **HTML/CSS**, **JavaScript**, and **SQL**.  
-- 🌱 Currently exploring **ReactJS** and **Node.js** for dynamic web applications.  
+- 💻 Skilled in **Java**, **Python**, **HTML/CSS**, **JavaScript**, **SQL**, **.NET**, and **C#**.  
+- 🌱 Currently exploring **ReactJS**, **Node.js**, and **MongoDB** for full-stack development.  
 - ✨ Love contributing to **open-source projects** and solving real-world problems.  
 
 ---
@@ -22,7 +22,11 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-%23000088.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-<!--   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MudBlazor-%23533D7C.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razor-%230078D7.svg?style=for-the-badge&logo=razor&logoColor=white"/>
 </p>
 
 ---
@@ -68,5 +72,3 @@
   <a href="https://github.com/naren004"><img src="https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://naren-portfolio-kappa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230000FF.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
-
