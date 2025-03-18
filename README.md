@@ -34,7 +34,7 @@
 ### 📚 **Projects**
 #### **🌦 SkySense (C#, Razor, MudBlazor, MongoDB)** (Feb 2025)
 - Developed a **.NET-based Weather App** that fetches real-time weather data via RESTful APIs.
-- Implemented **MongoDB** for storing users’ favorite locations, ensuring **efficient data handling**.[https://github.com/naren004/Weather-Frontend](url)
+- Implemented **MongoDB** for storing users’ favorite locations, ensuring **efficient data handling**.
 
 #### **📘 Library Management System (Python)** (Aug 2024)
 - Built a Python-based system for **automating library operations** (issue, return, add books).
